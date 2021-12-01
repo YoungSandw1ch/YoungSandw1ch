@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m studying full stack developer in GO IT
+- 🌱 I’m currently learning Java Script
+- 📫 How to reach me: sersus1991@gmail.com
+- ⚡ Fun fact: all the time at the keyboard
