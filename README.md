@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m studying full stack developer in GO IT
 - 🌱 I’m currently learning Java Script
 - 📫 How to reach me: sersus1991@gmail.com
-- ⚡ Fun fact: all the time at the keyboard
+- ⚡ Fun fact: all the time at the keyboard but
+- i try to find the right balance in a healthy lifestyle and code writing
