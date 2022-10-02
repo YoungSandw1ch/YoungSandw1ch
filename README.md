@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - i try to find the right balance in a healthy lifestyle and code writing
 
 <div id="badges">
-  <a href="www.linkedin.com/in/serhii-mykhailenko" style="display: block">
+<!--   <a href="www.linkedin.com/in/serhii-mykhailenko" style="display: block">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <img src="https://komarev.com/ghpvc/?username=YoungSandw1ch&style=flat-square&color=yellow" alt="profile views counter"/>
 </div>
 
