@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <hr>
 - 🔭 I’m studying full stack developer in GO IT
 - 📫 How to reach me: sersus1991@gmail.com
--   <a href="www.linkedin.com/in/serhii-mykhailenko">
+-   <a href="www.linkedin.com/in/serhii-mykhailenko" style="display: block">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 - ⚡ Fun fact: all the time at the keyboard but
