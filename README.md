@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
   🇺🇦 I’m currently on war with russia but try to learn JavaScript ☮️
   <hr>
-- 🔭 I’m studying full stack developer in GO IT
-- 📫 How to reach me: sersus1991@gmail.com
-- ⚡ Fun fact: all the time at the keyboard but
-- i try to find the right balance in a healthy lifestyle and code writing
+- 🔭 I’m studying full stack developer in GO IT <br>
+- 📫 How to reach me: sersus1991@gmail.com <br>
+-   <a href="www.linkedin.com/in/serhii-mykhailenko" style="display: block">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> <br>
+- ⚡ Fun fact: all the time at the keyboard but <br>
+- i try to find the right balance in a healthy lifestyle and code writing <br>
 
 <div id="badges">
-<!--   <a href="www.linkedin.com/in/serhii-mykhailenko" style="display: block">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
   <img src="https://komarev.com/ghpvc/?username=YoungSandw1ch&style=flat-square&color=yellow" alt="profile views counter"/>
 </div>
 
