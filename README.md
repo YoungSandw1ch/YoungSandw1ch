@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <h1>🇺🇦 I’m protecting our country from Russian invaders, but trying to learn JavaScript ☮️</h1>
+  <h1>🇺🇦 I’m protecting our country from russian invaders, but trying to learn JavaScript ☮️</h1>
 1️⃣ 🔭 I’m studying full stack developer in GO IT <br>
 2️⃣ 📫 How to reach me: <a href="sersus1991@gmail.com">sersus1991@gmail.com</a> <br>
 3️⃣  <a href="www.linkedin.com/in/serhii-mykhailenko"> 
