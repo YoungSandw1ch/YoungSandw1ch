@@ -18,9 +18,12 @@ Here are some ideas to get you started:
   but trying to learn JavaScript ☮️</h1>
 1️⃣ 🔭 I’m studying full stack developer in GO IT <br>
 2️⃣ 📫 How to reach me: <a href="sersus1991@gmail.com">sersus1991@gmail.com</a> <br>
-3️⃣  <a href="www.linkedin.com/in/serhii-mykhailenko"> 
+<div style="display: flex, align-items: center">
+  <div>3️⃣ </div>
+  <a href="www.linkedin.com/in/serhii-mykhailenko"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> <br>
+  </a>
+</div> <br>
 4️⃣ ⚡ Fun fact: all the time at the keyboard but, i try to find the right balance in a healthy lifestyle and code writing <br>
 <br>
 <div id="badges">
